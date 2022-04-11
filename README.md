@@ -17,7 +17,7 @@ Installs Yarn
 
 ### `docker-compose up --build`
 
-Builds the docker you may ignore the temporary wardnings during the build process after succesfull build
+Builds the docker you may ignore the temporary warnings during the build process after succesfull build
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
