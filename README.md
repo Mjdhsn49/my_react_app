@@ -6,6 +6,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To see the deployed vesion click --> https://mjdhsn-react-app.netlify.app/
 
+
+## Run Using Docker
+
+Install DOCKER by following this https://docs.docker.com/get-docker/
+
+### `npm install --global yarn`
+
+Installs Yarn
+
+### `docker-compose up --build`
+
+Builds the docker you may ignore the temporary wardnings during the build process after succesfull build
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser
+
 ## Available Scripts
 
 In the project directory, you can run:
