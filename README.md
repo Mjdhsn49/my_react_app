@@ -2,9 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed
+
+To see the deployed vesion click --> https://mjdhsn-react-app.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs all the dependencies 
 
 ### `npm start`
 
